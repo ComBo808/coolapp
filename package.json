@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ComBo808/coolapp/issues"
   },
-  "homepage": "https://github.com/ComBo808/coolapp#readme"
+  "homepage": "https://github.com/ComBo808/coolapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
